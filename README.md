@@ -1,4 +1,5 @@
 # DRGF-v6
+**[📄 DRGF v6 完全検証レポートを読む](DRGF_v6_Full_Verification_Report.md)**
 Dynamic Relational Gradient Flow (DRGF) v6 — Landauer阻害による単一メカニズムの統一理論
 ## 核心アイデア
 MA（関係性の情報履歴）は本来減らして軽くなりたい自然な傾向を持つ。
